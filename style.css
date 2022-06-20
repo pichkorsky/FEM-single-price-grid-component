@@ -47,7 +47,7 @@ body {
 @media (min-width: 1440px){
 
     .grid-container {
-        max-width: 600px;
+        max-width: 650px;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
@@ -62,7 +62,7 @@ body {
 /* Sections styling */
 
 section {
-    padding: 2rem 2rem;
+    padding: 3rem 2rem 1rem;
 }
 
 header {
